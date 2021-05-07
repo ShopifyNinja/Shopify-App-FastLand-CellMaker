@@ -1,0 +1,15 @@
+<% content_for :javascript do %>
+  <script type="text/javascript">
+    ShopifyApp.ready(function(){
+      ShopifyApp.Bar.initialize({ 
+        buttons: {
+          primary: {
+            label: "Settings",
+            href: '/settings'
+          }
+        },
+        title: "Home" 
+      });
+    });
+  </script>
+<% end %>

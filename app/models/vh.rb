@@ -1,0 +1,2 @@
+class Vh < ApplicationRecord
+end

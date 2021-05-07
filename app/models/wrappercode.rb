@@ -1,0 +1,2 @@
+class Wrappercode < ApplicationRecord
+end

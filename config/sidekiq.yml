@@ -1,0 +1,5 @@
+:queues:
+  - file_parser2
+  - product_sync2
+  - installation2
+  - destination2

@@ -1,0 +1,16 @@
+.themes {
+  .Polaris-Choice {
+    padding-left: 1.6rem;
+  }
+
+  .Polaris-OptionList {
+    margin-top: 5px;
+    border-top: var(--p-override-none,.1rem solid var(--p-border-subdued,#dfe3e8));
+
+    .Polaris-OptionList-Option {
+      margin: 5px 0;
+      background: #eff0f8;
+      border-radius: 3px;
+    }
+  }
+}
